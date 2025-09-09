@@ -1,0 +1,16 @@
+- [**PORTAL**](README.md)
+- **Blogs (En)**
+- **Blogs (中文)**
+- **[Sharings Slides&Recordings](Sharings.md)**
+- **Portfolios / 作品集**
+  - [AVM](md/TBD.md)
+  - [Linux](md/Linux.md)
+- **Document Hub**
+  - [Workspace and Environments](#)
+    - [Terminal Shells](md/shell)
+    - [Python QuickStart](md/python)
+- **Playground**
+- **Demo**
+  - [Mermaid Diagram](md/Mermaid)
+  - [Code Demo](md/code-demo)
+  - [HomePage](http://www.example.com)

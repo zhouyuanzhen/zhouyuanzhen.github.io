@@ -1,0 +1,12 @@
+:root {
+  --xxx-width: 16rem; /* Adjust this value to your desired width */
+}
+
+.sidebar {
+  width: 18rem !important;
+}
+
+/*
+.content {
+  margin-left: var(--xxx-width) !important;
+}    */
