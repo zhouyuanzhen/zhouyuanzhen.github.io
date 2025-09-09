@@ -3,10 +3,12 @@
 }
 
 .sidebar {
-  width: 18rem !important;
+  width: 12rem !important;
 }
 
-/*
+
 .content {
-  margin-left: var(--xxx-width) !important;
-}    */
+  /*margin-left: var(--xxx-width) !important;*/
+  margin-left: 0.1rem !important;
+  padding-left: 0.1rem;
+}
