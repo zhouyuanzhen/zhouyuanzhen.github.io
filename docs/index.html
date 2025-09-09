@@ -31,37 +31,33 @@
     <script>
         // Docsify Configuration (see https://docsify.js.org/#/configuration)
         window.$docsify = {
-            //...
             name: 'Docsify GH Pages of Yuanzhen',
             coverpage: true,
-            //coverpage: false,
 
             // Sidebar Configuration
-            //logo: 'static/avataaars-cartoon_zyz.png',
             logo: 'static/avatar-tiny.png',
-            auto2top: true,
+            auto2top: false,
             loadSidebar: true,
             alias: {
               '/.*/_sidebar.md': '/_sidebar.md' // This ensures that _sidebar.md is always loaded from the root
             },
             sidebarDisplayLevel: 2,
-            
-            maxLevel: 0,
-            // Set subMaxLevel to 0 to remove automatic display of page table of contents (TOC) in Sidebar
-            subMaxLevel: 3,
+            maxLevel: 1,
+            subMaxLevel: 3, // Set subMaxLevel to 0 to remove automatic display of page table of contents (TOC) in Sidebar
 
-            // configure minimum zoom and maximum zoom.
-            mermaidZoom: {
-                minimumScale: 1,
-                maximumScale: 10,
-                zoomPannel: true
-            },
             // Search Plugin Configuration
             search: {
                 placeholder: 'Type to search...',
                 noData: 'No matches found.',
                 // Headline depth, 1 - 6
                 depth: 2,
+            },
+            
+            // configure minimum zoom and maximum zoom.
+            mermaidZoom: {
+                minimumScale: 1,
+                maximumScale: 10,
+                zoomPannel: true
             }
         };
 
@@ -80,8 +76,6 @@
     
     <!-- Sidebar extra -->
     <!--<script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>-->
-    <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
-
     <script src="static/js/docsify-sidebar-collapse.min.js"></script>
 
     
