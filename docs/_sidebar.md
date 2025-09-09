@@ -3,8 +3,6 @@
 - [Blogs (中文)](blog.cn)
 - [Sharings Slides & Recordings](Sharings)
 - [Portfolios / 作品集](Portfolios)
-  - [AVM](md/TBD)
-  - [Linux](md/Linux)
 - [Document Hub](DocHub)
   - [Workspace and Environments](#)
     - [Terminal Shells](md/shell)
