@@ -4,8 +4,8 @@
 
 .sidebar {
   /*top: 0px;*/
-  /*left: 12px;*/
-  width: 180px !important;
+  /*left: 2%;*/
+  width: 12% !important;
   text-align: left;
   font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
   /*font-weight: bold;*/
@@ -21,5 +21,5 @@
   margin-left: 50px !important;
   /*padding-top: 22px;*/
   /*padding-left: 120px;*/
-  left: 80px;
+  left: 12%;
 }
