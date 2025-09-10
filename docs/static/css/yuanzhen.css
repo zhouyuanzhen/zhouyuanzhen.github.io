@@ -8,12 +8,12 @@
   width: 15% !important;
   text-align: left;
   font-family: Tahoma, Impact, "Helvetica Neue", "Open Sans", Arial, sans-serif;
-  font-weight: 600;
+  font-weight: 800;
   font-size: 16px;
   text-decoration-line: underline;
   text-underline-offset: 3px;
   text-decoration-color: darkslategrey;
-  text-decoration-thickness: 2px;
+  text-decoration-thickness: 1px;
 }
 
 .content {
