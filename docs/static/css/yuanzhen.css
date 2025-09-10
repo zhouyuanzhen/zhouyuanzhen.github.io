@@ -3,12 +3,23 @@
 }
 
 .sidebar {
-  width: 12rem !important;
+  /*top: 0px;*/
+  /*left: 12px;*/
+  width: 180px !important;
+  text-align: left;
+  font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
+  /*font-weight: bold;*/
+  font-size: 16px;
+  text-decoration-line: underline;
+  text-underline-offset: 3px;
+  text-decoration-color: darkolivegreen;
+  text-decoration-thickness: 12px;
 }
-
 
 .content {
   /*margin-left: var(--xxx-width) !important;*/
-  margin-left: 0.1rem !important;
-  padding-left: 0.1rem;
+  margin-left: 50px !important;
+  /*padding-top: 22px;*/
+  /*padding-left: 120px;*/
+  left: 80px;
 }

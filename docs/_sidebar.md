@@ -2,7 +2,6 @@
 - [Portfolios/作品集](Portfolios)
 - [Sharings](Sharings)
 - [Blogs (En)](blog.en)
-- [Blogs (中文)](blog.cn)
+- [Blogs (中)](blog.cn)
 - [Document Hub](DocHub)
 - [Playground](lab)
-- [Demo](#)
