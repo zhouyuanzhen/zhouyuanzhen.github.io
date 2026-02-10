@@ -4,4 +4,5 @@
 - [Document Hub](DocHub)
 - [Blogs (En)](blog.en)
 - [Blogs (中)](blog.cn)
+- [CheatSheet](Cheatsheet)
 - [Demo Space](lab)
